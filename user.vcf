@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:galwgray@gmail.com
 TEL;type=WORK;type=VOICE:+55 45 99931-9730
 item1.ADR;type=WORK;type=pref:;;R. Mato Grosso, ;;;1966;Cascavel - PR
 item1.X-ABADR:br
-item2.URL;type=pref:admpsi.com.br
+item2.URL;type=pref:www.admpsi.com.br
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
